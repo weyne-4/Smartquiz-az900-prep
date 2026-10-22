@@ -149,9 +149,9 @@ Generated learning content should be reviewed for accuracy against current Micro
 
 Developed collaboratively by a team of three for the Vibe Coding Hackathon: AZ-900 Exam Prep Edition.
 
-* **theeorip-collab**
-* **mursalharun2000-byteblitz**
-* **weyne-4**
+* **Tshidi  Malope**
+* **Abdiaziz Suleiman**
+* **weyne Onzere**
 
 ## Disclaimer
 
